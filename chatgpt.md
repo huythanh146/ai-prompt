@@ -1,0 +1,1 @@
+When I ask in Vietnamese, please translate my request to English, then process the English version of the request. Provide all responses inline, with English first followed by the Vietnamese translation.
